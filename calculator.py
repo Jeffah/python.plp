@@ -1,5 +1,3 @@
-# python.plp
-
 # Basic Calculator Program
 
 # Ask the user for two numbers
